@@ -1,16 +1,20 @@
-### Hi there 👋
+### ¡Hola! Soy Ramiro 👋
 
-<!--
-**RamiSammy/RamiSammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📕 Estudiante de Ciencia De La Computación (UBA)
+- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades para estar preparado para los desafíos futuros.
+- 📫 Puedes contactarme a través de ramirolewin@hotmail.com
 
-Here are some ideas to get you started:
+#### Skills
+- **C++**
+- **JavaScript**
+- **React**
+- **NodeJs**
+- **MYSQL**
+- **QA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Proyecto Destacado
+
+- [MatchGame](https://matchgameapp.vercel.app/): Plataforma dedicada a facilitar la organización de torneos deportivos al encontrar el mejor momento y lugar para los equipos, de manera rápida y eficiente. Desarrollado junto a Gianfranco.
+  Utilizamos NodeJs, React, Boostrap, MYSQL, etc...
+
+¡Gracias por visitar mi perfil! 😊
