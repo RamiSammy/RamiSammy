@@ -14,7 +14,7 @@
 
 #### Proyecto Destacado
 
-- [MatchGame](https://matchgameapp.vercel.app/): Plataforma dedicada a facilitar la organización de torneos deportivos al encontrar el mejor momento y lugar para los equipos, de manera rápida y eficiente. Desarrollado junto a Gianfranco.
+- [MatchGame](https://matchgameapp.vercel.app/): Plataforma dedicada a facilitar la organización de torneos deportivos al encontrar el mejor momento y lugar para los equipos, de manera rápida y eficiente. Desarrollado junto a [@gianfrancobtl].
   Utilizamos NodeJs, React, Boostrap, MYSQL, etc...
 
 ¡Gracias por visitar mi perfil! 😊
